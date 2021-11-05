@@ -5,7 +5,7 @@ public class HelloWorld {
 	}
 	
 	public static String getGreetingMessage(String name) {
-		return "Hello "+ name + "! Welcome to Java Programming";
+		return "Hello Mr"+ name + "! Welcome to Java Programming";
     }  
 } 
 
